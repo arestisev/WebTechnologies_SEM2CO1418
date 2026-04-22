@@ -16,7 +16,7 @@
 
 ## GitHub Repository
 
-- GitHub repo URL: Not used for this submission
+- GitHub repo URL: https://github.com/arestisev/WebTechnologiesAssignment2
 
 ## Project Summary
 
