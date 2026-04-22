@@ -32,3 +32,29 @@ Main project files:
 - `404.php`
 - `styles.css`
 - `script.js`
+
+## Main Features
+
+- Homepage built with `index.php`
+- Products page built with `Products.php`
+- Individual product page built with `Item.php`
+- Shopping cart page built with `cart.php`
+- User login page built with `login.php`
+- User registration page built with `register.php`
+- User logout handled by `logout.php`
+- Custom 404 page built with `404.php`
+- Shared website styling in `styles.css`
+- Shared website JavaScript in `script.js`
+- Database connection handled in `includes/conn.php`
+- Cart cookie helper functions handled in `includes/cart_cookie.php`
+- Homepage offers loaded from `tbl_offers`
+- Products loaded from `tbl_products`
+- Login and registration connected to `tbl_users`
+- Reviews connected to `tbl_reviews`
+- Checkout connected to `tbl_orders`
+- Password hashing with bcrypt
+- Session-based login state
+- Product title search on the products page
+- Cookie-based cart storage
+- Offer code support in the cart
+- Responsive layout for mobile devices
